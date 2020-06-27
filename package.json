@@ -1,7 +1,7 @@
 {
-	"name": "jordan-scrapes-leanex",
+	"name": "jordan-scrapes-leanx",
 	"version": "1.0.0",
-	"description": "Jordan scrapes Leanex for SAP table data.",
+	"description": "Jordan scrapes LeanX for SAP table data.",
 	"main": "./dist/index.js",
 	"scripts": {
 		"start": "tsc && node ./dist/index.js"

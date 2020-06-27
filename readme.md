@@ -1,6 +1,6 @@
 # Jordan Scrapes Leanx.eu
 
-This scrapes [Leanx SAP Tables](https://http://leanx.eu//) for possible field values and then exports them to a CSV. It's basing its scraping targets on an array of SAP Table names found in `src/tableNames.ts`.
+This scrapes [Leanx SAP Tables](https://leanx.eu//) for possible field values and then exports them to a CSV. It's basing its scraping targets on an array of SAP Table names found in `src/tableNames.ts`.
 
 [Full guide here](https://javascriptwebscrapingguy.com/jordan-scrapes-leanx)
 
