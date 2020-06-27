@@ -27,7 +27,6 @@ import * as fs from 'fs';
 		}
 	})
 
-
 })();
 
 async function getTableValues(tableName: string) {
